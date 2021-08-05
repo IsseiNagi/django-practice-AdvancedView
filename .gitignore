@@ -1,0 +1,9 @@
+Pipfile
+Pipfile.lock
+*/settings.py
+*/__init__.py
+*/*/__init__.py
+db.sqlite3
+static/img
+media
+.DS_Store
